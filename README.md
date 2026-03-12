@@ -174,6 +174,3 @@ M. Raissi, P. Perdikaris, and G. E. Karniadakis, *Physics Informed Deep Learning
 
 ---
 
-## License
-
-MIT — see [LICENSE](LICENSE).
