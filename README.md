@@ -2,7 +2,7 @@
 
 [![validate](https://github.com/abhinaash-broski/pinn-heat-equation-benchmark/actions/workflows/validate.yml/badge.svg)](https://github.com/abhinaash-broski/pinn-heat-equation-benchmark/actions/workflows/validate.yml)
 
-A controlled comparison of Physics-Informed Neural Networks (PINNs) and three finite-difference schemes (explicit, implicit, Crank–Nicolson) on the 1D, 2D and 3D heat equation, scored against an exact Fourier-series solution. Final Year Project (MATH 499), B.Sc. Computational Mathematics.
+A controlled comparison of Physics-Informed Neural Networks (PINNs) and three finite-difference schemes (explicit, implicit, Crank–Nicolson) on the 1D, 2D and 3D heat equation, scored against an exact Fourier-series solution.
 
 **Key findings**
 
