@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+# committed solver outputs: don't diff, don't count toward language stats
+computed-solutions/*.csv -diff linguist-generated

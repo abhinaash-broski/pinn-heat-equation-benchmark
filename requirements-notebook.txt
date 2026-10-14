@@ -1,0 +1,8 @@
+-r requirements.txt
+scipy>=1.11
+torch>=2.0
+seaborn>=0.12
+tqdm>=4.65
+psutil>=5.9
+ipywidgets>=8.0
+jupyter
